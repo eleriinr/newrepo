@@ -1,6 +1,0 @@
-
-vaherida, et saaks splittida
-
-.class files are ignored because they are compiled from the .java
-classes when you run the server so there is no need to add them
-to the repo. (they are also not readable)
