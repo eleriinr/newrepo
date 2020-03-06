@@ -1,0 +1,2 @@
+user.name=Eleriin Rein
+user.email=eleriin.r@gmail.com
